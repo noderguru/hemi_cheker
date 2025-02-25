@@ -1,8 +1,8 @@
 # hemi_cheker
 hemi testnet cheker Total Points | First Day Active | Total Days Active | Total Daily Points | Total Bonus Points | Ranking
 
-
-```git clone https://github.com/noderguru/hemi_cheker```
+```bash
+git clone https://github.com/noderguru/hemi_cheker
 
 ```cd hemi_cheker```
 
