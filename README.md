@@ -22,3 +22,5 @@ Total Points | First Day Active | Total Days Active | Total Daily Points | Total
 создайте файл:   ```nano pubkey.txt```  и вставьте в него ваши pubkey каждый с новой строки
 
 ```python3 hemi_cheker.py```
+
+Результат выводится в консоль и сохраняется в эксель файл в папку hemi_cheker
