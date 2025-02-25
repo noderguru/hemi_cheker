@@ -7,7 +7,7 @@ Total Points | First Day Active | Total Days Active | Total Daily Points | Total
 
 =========================================================================
 
-```git clone https://github.com/noderguru/hemi_cheker```
+```git clone https://github.com/noderguru/hemi_cheker.git```
 
 ```cd hemi_cheker```
 
