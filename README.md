@@ -12,3 +12,4 @@ hemi testnet cheker Total Points | First Day Active | Total Days Active | Total 
 
 ```source venv/bin/activate```
 
+```pip install -r requirements.txt```
